@@ -56,3 +56,9 @@ button:hover {
     background-color: #00d9c0;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
+
+#photo {
+    display: block;
+    max-width: 80%;
+    margin: 40px auto;
+}
