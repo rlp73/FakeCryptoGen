@@ -1,1 +1,1 @@
-# FakeCryptoGen
+ThisCryptoDoesNotExist.com
